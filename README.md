@@ -15,15 +15,14 @@ print(stringFirst).
 
 **//To add some integer, float, bool, string or something else inside string you can use  string interpolation. To apply string interpolation write \(anyObjectYouCanWrite)**
 
-var stringInterpolation = "This is a \(int)"
-var stringInterpolation2 = "This is a \(stringFirst)"
-var stringInterpolation3 = "This is a \(bool)"
+var stringInterpolation = "This is a \(stringFirst)"
+
 
 **//MARK: - Constants string**
 
 let constant = "this is a constant String object."
 
-**//To show type annotations in string write String or [String] after constant or variable name or array name such as var exampleAnotation: String**
+**//To show type annotations in string write String or [String] after constant or variable name or array name such as `var exampleAnotation: String`**
 
 
 let typeSafetyConstantString : String = "String"
