@@ -18,7 +18,10 @@ third line
 **When we write  stringFirst  inside print. Will see the multiline text:**
 <br />
 <br />
-`print(stringFirst). `
+```
+print(stringFirst)
+```
+
 <br />
 <br />
 <br />
