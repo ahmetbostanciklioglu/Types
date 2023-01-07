@@ -1,4 +1,4 @@
-# ** String** 
+#  String 
 
 
 **//To write a multiline string use """ triple quotes, and then write text inside triple quotes starting from next line** 
