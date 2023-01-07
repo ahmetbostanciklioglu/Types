@@ -4,11 +4,14 @@
 **To write a multiline string use """ triple quotes, and then write text inside triple quotes starting from next line:** 
 <br />
 <br />
-`var stringFirst = """
+```
+var stringFirst = """
 First line 
 second line 
 third line
-"""`
+"""
+```
+
 <br />
 <br />
 <br />
@@ -22,14 +25,20 @@ third line
 **To add some integer, float, bool, string or something else inside string you can use  string interpolation. To apply string interpolation write \(anyObjectYouCanWrite):**
 <br />
 <br />
-`var stringInterpolation = "This is a \(stringFirst)"`
+```
+var stringInterpolation = "This is a \(stringFirst)"
+```
+
 <br />
 <br />
 <br />
 **Constants string:**
 <br />
 <br />
-`let constant = "this is a constant String object."`
+```
+let constant = "this is a constant String object."
+```
+
 <br />
 <br />
 <br />
@@ -37,5 +46,7 @@ third line
 <br />`var exampleAnotation: String`:**
 <br />
 <br />
-`let typeSafetyConstantString : String = "String"
-let typeSafetyConstantArray : [String] = ["1", "12", "23", "34", "45"]`
+```
+let typeSafetyConstantString : String = "String"
+let typeSafetyConstantArray : [String] = ["1", "12", "23", "34", "45"]
+```
