@@ -12,14 +12,12 @@ third line
 """
 ```
 
-<br />
-<br />
-<br />
-**When we write  stringFirst  inside print. Will see the multiline text:**
-<br />
-<br />
 
-`print(stringFirst)`
+**When we write  stringFirst  inside print. Will see the multiline text**
+
+
+```print(stringFirst)```
+
 
 
 <br />
